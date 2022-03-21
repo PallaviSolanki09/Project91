@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(218, 230, 173);
+}
+
+.login_div{
+    background-color:rgb(216, 169, 14);
+    float: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#player_1 , #player_2{
+    display: inline-block;
+}
+
+#lg_btn{
+    width: 30%;
+    font-size: 18px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+#hi{
+    background-color:rgb(218, 230, 173) ;
+}
+
+#output{
+    background-color:rgb(216, 169, 14);
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+input{
+    height: 40px;
+    width: 50%;
+}
+
+#pl_1_name,#pl_2_name{
+    display:inline;
+}
